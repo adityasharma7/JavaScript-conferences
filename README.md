@@ -9,4 +9,4 @@ Timeline - Last happened on 27 August
 ## [JSWORLD CONFERENCE](https://jsworldconference.com/)
 
 Timeline
-- Upcoming - 8-10 February 2023
+Theater Amsterdam - Upcoming - 8-10 February 2023
