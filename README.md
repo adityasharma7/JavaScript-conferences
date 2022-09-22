@@ -11,7 +11,7 @@ Timeline: Last happened on 27 August
 Timeline: Upcoming - 8-10 February 2023
 Venue: Theater Amsterdam
 
-## [JavaScript Global Summit](https://events.geekle.us/js/)
+## [JavaScript Global Summit by Geekle](https://events.geekle.us/js/)
 Timeline: September 27-28, 2022, 9 AM GMT  
 Venue: Online  
 Pricing:  
