@@ -17,3 +17,9 @@ Venue: Online
 Pricing:  
 Junior Track: Free  
 Full Access: $275  
+
+
+## [ViteConf](https://viteconf.org/) 
+Timeline: Oct 11-12, 2022
+Venue: Online  
+Pricing: Free
