@@ -23,3 +23,9 @@ Full Access: $275
 Timeline: Oct 11-12, 2022
 Venue: Online  
 Pricing: Free
+
+
+## [SmashingConf](https://smashingconf.com/ny-2022) 
+Timeline: October 10–13, 2022  
+Venue: in-person, at New World Stages, New York + Online  
+Pricing: [Check here](https://smashingconf.com/ny-2022/registration) 
