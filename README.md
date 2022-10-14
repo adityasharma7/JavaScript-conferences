@@ -33,8 +33,12 @@ Pricing: [Check here](https://smashingconf.com/ny-2022/registration)
 
 ## [Nx Conf 2022](https://nx.dev/conf) 
 Timeline: October 17, 2022  
-Venue: in-person, at the Tempe Mission Palms in Tempe, AZ.
+Venue: in-person, at the Tempe Mission Palms in Tempe, AZ. 
 Pricing: [Check here](https://ti.to/nx-conf/nx-conf-2022?utm_source=nxdev) 
+
+##  [JSNation Conf](https://jsnation.com) 
+Timeline: June 1,2023 (Hybrid in Amsterdam) and June 5,2023(remote) 
+
 
 
 ## [javascript-days](https://javascript-days.de/berlin) 
