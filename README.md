@@ -29,3 +29,11 @@ Pricing: Free
 Timeline: October 10–13, 2022  
 Venue: in-person, at New World Stages, New York + Online  
 Pricing: [Check here](https://smashingconf.com/ny-2022/registration) 
+
+## [Cityjsconf](https://cityjsconf.org/) 
+Timeline: October 20-22, 2022  
+Meetup Venue (21 October 2022):
+Univelcity 42 Montgomery road, Yaba Lagos.
+Conference Venue (22 October 2022):
+The Zone Plot 9, Gbagada Industrial Scheme, beside UPS, Gbagada-Oworonshoki Expressway, Lagos.
+Pricing: [Check here](shorturl.at/cEUY6) 
