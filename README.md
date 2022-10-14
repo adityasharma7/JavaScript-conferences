@@ -30,6 +30,7 @@ Timeline: October 10–13, 2022
 Venue: in-person, at New World Stages, New York + Online  
 Pricing: [Check here](https://smashingconf.com/ny-2022/registration) 
 
+
 ## [Nx Conf 2022](https://nx.dev/conf) 
 Timeline: October 17, 2022  
 Venue: in-person, at the Tempe Mission Palms in Tempe, AZ. 
@@ -40,7 +41,14 @@ The main JavaScript conference of 2023
 Timeline: June 1,2023 (Hybrid in Amsterdam) and June 5,2023(remote) 
 
 
+
 ## [javascript-days](https://javascript-days.de/berlin) 
 Timeline: October 17–20, 2022  
 Venue:  Online  
-Pricing: free 
+Pricing: free
+
+
+## [VUE FES JAPAN ONLINE 2022](https://dev.events/conferences/vue-fes-japan-online-online-9-2022)
+Timeline:October 16,2022
+Venue: Online
+Pricing: [check here](shorturl.at/gvJU3)
