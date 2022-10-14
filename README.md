@@ -47,3 +47,11 @@ Pricing: free
 Timeline:October 16,2022
 Venue: Online
 Pricing: [check here](shorturl.at/gvJU3)
+
+## [Lone Star Software Symposium 2022](https://nofluffjuststuff.com/austin)
+Timeline:November 4 to 6,2022 at 9:00 am
+Venue: Marriott Austin South Hotel
+4415 South IH-35
+Austin, Texas
+Both In-person or Online
+Pricing: [check here](shorturl.at/cAFN5)
