@@ -36,7 +36,7 @@ Timeline: October 17, 2022
 Venue: in-person, at the Tempe Mission Palms in Tempe, AZ. 
 Pricing: [Check here](https://ti.to/nx-conf/nx-conf-2022?utm_source=nxdev) 
 
-##  [JSNation Conf](https://jsnation.com/?gclid=CjwKCAjwkaSaBhA4EiwALBgQaPFLMlJ2L6QazWiobkD7z4hLsrpgZ2tPRxFh_jKzT9x5ehRQhhvIbxoCW38QAvD_BwE) 
+##  [JSNation Conf](https://jsnation.com) 
 The main JavaScript conference of 2023
 Timeline: June 1,2023 (Hybrid in Amsterdam) and June 5,2023(remote) 
 
