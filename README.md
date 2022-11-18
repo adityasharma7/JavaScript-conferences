@@ -56,5 +56,9 @@ Pricing: [check here](shorturl.at/gvJU3)
 Timeline: October 20-22, 2022  
 Meetup Venue (21 October 2022): Univelcity 42 Montgomery road, Yaba Lagos.  
 Conference Venue (22 October 2022): The Zone Plot 9, Gbagada Industrial Scheme, beside UPS, Gbagada-Oworonshoki Expressway, Lagos.  
-Pricing: [Check here](shorturl.at/cEUY6)  
+Pricing: [Check here](shorturl.at/cEUY6)
+
+## [VueConf Toronto](https://www.vuetoronto.com/)
+Last happened: November 1-3, 2022
+Registration Link: https://www.vuetoronto.com/tickets
 
